@@ -1,7 +1,8 @@
 # DataModelCraftingLab
 ¡Hola en ModelCraftingLab!
 
-Soy Una Futura ingeniera de datos y creadora de este espacio. Aquí, mi principal objetivo es brindar la oportunidad de poner en práctica los conocimientos adquiridos en el fascinante mundo del machine learning.
+Soy una Apasionada de los datos y creadora de este espacio. Aquí, mi principal objetivo es brindar la oportunidad de poner en práctica los conocimientos adquiridos en el fascinante mundo del machine learning.
+
 En este repositorio encontrarás una variedad de modelos de machine learning, desde algoritmos supervisados y no supervisados hasta sistemas de recomendación.
 Utilizando la biblioteca scikit-learn, exploraré diferentes enfoques.
 
